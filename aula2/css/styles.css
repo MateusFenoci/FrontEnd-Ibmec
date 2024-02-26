@@ -1,0 +1,58 @@
+
+/** Caixas **/
+  
+div  {
+
+    /** Propriedades **/
+
+    text-align: center;
+    border-radius: 25px;
+    font-family: "Electrolize";
+
+    /** Fontes **/
+
+    font-size: 30px;
+    color: beige;
+}
+
+#box_1 {
+
+    /** Cores **/
+
+    background-color: red;
+
+    /** Medidas **/
+
+    height: 100px;
+    width: 200px;
+    line-height: 100px;
+
+}
+
+#box_2 {
+
+    /** Cores **/   
+
+    background-color: blue;
+
+    /** Medidas **/
+    
+    height: 200px;
+    width: 400px;
+    line-height: 200px;
+
+}
+
+#box_3 {
+
+    /** Cores **/
+
+    background-color: darkgreen;
+
+    /** Medidas **/
+
+    height: 100px;
+    width: 200px;
+    line-height: 100px;
+
+}
